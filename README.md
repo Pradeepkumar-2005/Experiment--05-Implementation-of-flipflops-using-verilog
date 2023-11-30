@@ -106,13 +106,55 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 
-### PROGRAM 
+### PROGRAM
+### D Flip Flop
+
+![Screenshot 2023-11-22 141225](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/fa9165f1-2bb4-43a4-8ec0-491b40417a7c)
+
+
+### JK Flip Flop
+
+![Screenshot 2023-11-22 144129](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/a1cd8196-b124-4fa5-8e05-144ae074021c)
+
+
+### SR Flip Flop
+
+![Screenshot 2023-11-26 150316](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/81d4d225-8550-4396-8921-694a615dae47)
+
+
+### T Flip Flop
+
+![Screenshot 2023-11-26 152303](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/8353c24d-f711-4663-a0d2-78386399e18c)
+
+
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Pradeep kumar 
+RegisterNumber:  23006358
 */
 
+
+###TRUTH TABLE
+
+### D Flip Flop
+
+![WhatsApp Image 2023-11-30 at 11 42 28 PM (1)](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/04a6233c-be45-4f0e-9cfc-e951eff6b65f)
+
+
+### JK Flip Flop
+
+![WhatsApp Image 2023-11-30 at 11 42 28 PM](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/85c2044d-ba8a-4185-9139-913920ae5fbc)
+
+
+### SR Flip Flop
+
+![srf truth table](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/33431b36-a896-439b-aa2a-f19fc1b63917)
+
+
+
+### T Flip Flop
+
+![WhatsApp Image 2023-11-30 at 11 42 28 PM (2)](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/4d59ab3d-192e-494f-b326-b387a0d911e1)
 
 
 
@@ -120,7 +162,24 @@ RegisterNumber:
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+### D Flip Flop
 
+![Screenshot 2023-11-22 140109](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/19681696-c16d-4d7f-b2ce-f1502ca5803f)
+
+
+### JK Flip Flop
+
+![Screenshot 2023-11-22 144103](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/516f0dcf-67d8-48ba-95cb-e1faf83bfb00)
+
+
+### SR Flip Flop
+
+![Screenshot 2023-11-26 150301](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/456af602-4c15-4aba-a97f-73903ed8ae5d)
+
+
+### T Flip Flop
+
+![Screenshot 2023-11-26 152245](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/d313a699-9735-442b-a7a1-0ce2091d9b1f)
 
 
 
@@ -130,6 +189,21 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+### D Flip Flop
+
+![Screenshot 2023-11-22 140018](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/2bea8c76-c548-4b93-91dc-32f97c8568de)
+
+### JK Flip Flop
+
+![Screenshot 2023-11-22 144002](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/94234daf-cecc-4baa-960b-8395f85341a9)
+
+### SR Flip Flop
+
+![Screenshot 2023-11-26 150231](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/03bbc56d-3e4b-41b8-982f-d51afcb7e448)
+
+### T Flip Flop
+
+![Screenshot 2023-11-26 152213](https://github.com/Pradeepkumar-2005/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474038/1e9a9ae5-0612-4040-a220-2f89308e80fc)
 
 
 
